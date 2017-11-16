@@ -1,8 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import { bylineToString, getLocalLink } from 'utils/NewsUtils';
-import { COLOR_STYLE } from 'constants/FRNBaseStyles';
-import Video from 'components/media/Video';
-import AdvertisementUnit from 'components/AdvertisementUnit';
+
 class RandomTest extends Component {
   static PropTypes = {
     h1: PropTypes.string,
@@ -10,7 +7,7 @@ class RandomTest extends Component {
   }
   render(){
     let {
-      h2 = 'Nadia test h2',
+      h2 = 'sup this a github edit',
     } = this.props;
 
     let {
