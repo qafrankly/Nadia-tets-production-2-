@@ -1,15 +1,15 @@
 {
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
-  "tag": "heba",
-"affiliates": ["wnow,griffin,kotv"],
+  "tag": "Nadia",
+"affiliates": ["wnow"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
   },
   "defaultProps": {
-    "title": "Test uniqueness",
+    "title": "Nadia test title",
     "titleColor": "#000",
-    "backgroundColor": "white",
+    "backgroundColor": "red",
     "layout": "hero",
     "numberOfItems": 6,
     "textColor": "black",
