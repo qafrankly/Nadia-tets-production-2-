@@ -1,15 +1,15 @@
 {
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
-  "tag": "Nadia",
-"affiliates": ["franklydemo"],
+  "tag": "test",
+  "affiliates":["franklydemo"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
   },
   "defaultProps": {
-    "title": "Nadia test title",
+    "title": "Test uniqueness",
     "titleColor": "#000",
-    "backgroundColor": "red",
+    "backgroundColor": "white",
     "layout": "hero",
     "numberOfItems": 6,
     "textColor": "black",
